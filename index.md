@@ -17,6 +17,10 @@ I write according to the **Microsoft Style Guide**, emphasizing clean, user-focu
 ### Suite 1: ClearVault Lending Platform
 *Enterprise loan origination, servicing workflows, and regulatory mortgage compliance.*
 
+* **[System Specification: Loan Event Integration & Webhooks →](./clearvault-spec.html)**  
+  *Audience:* Platform Architects, Integration Engineers, Servicing Operations  
+  *Summary:* Enterprise technical specification defining data contracts, JSON message schemas, state machines, exponential backoff retry policies, and CFPB/RESPA regulatory audit controls.
+
 * **[Feature Release Notes: ClearVault v3.4.0 →](./clearvault-release-notes.html)**  
   *Audience:* Loan Servicing Administrators, Underwriting Operations, Secondary Marketing  
   *Summary:* Production release coverage featuring automated annual escrow analysis, real-time TRID/TILA disclosure generation, borrower co-signer schema migrations, and deployment validation steps.
@@ -24,10 +28,6 @@ I write according to the **Microsoft Style Guide**, emphasizing clean, user-focu
 * **[Topic-Based Task Guide: Configuring Automated Escrow Analysis →](./clearvault-task-guide.html)**  
   *Audience:* Loan Servicing Specialists, Escrow Accounting Managers  
   *Summary:* Standalone EPPO procedural guide walking through 12-month historical disbursement evaluations, RESPA cushion rules, pre-analysis simulations, and Accounts Payable refund batch exports.
-
-* **[System Specification: Loan Event Integration & Webhooks →](./clearvault-spec.html)**  
-  *Audience:* Platform Architects, Integration Engineers, Servicing Operations  
-  *Summary:* Enterprise technical specification defining data contracts, JSON message schemas, state machines, exponential backoff retry policies, and CFPB/RESPA regulatory audit controls.
 
 ---
 
