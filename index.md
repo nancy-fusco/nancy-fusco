@@ -47,7 +47,11 @@ I write according to the **Microsoft Style Guide**, emphasizing clean, user-focu
 ### Suite 3: Content Systems & AI Architecture
 *Strategic content operations, legacy refactoring, and AI-orchestrated data systems.*
 
-* **[Case Study: AI-Accelerated Legacy Documentation Transformation →](./content-architecture.html)**  
+* **[Architecture Case Study: Enterprise Single-Sourcing & Multi-Target Delivery Pipeline →](./flare-zoomin-architecture.html)**  
+  *Audience:* Content Architects, Technical Documentation Directors, Systems Engineers  
+  *Summary:* Enterprise architecture case study detailing how I engineered a single-source authoring pipeline using MadCap Flare, conditional transclusion, and automated HTML5 bundle ingestion into Zoomin and Fluid Topics for faceted dynamic delivery.
+
+* **[AI Case Study: AI-Accelerated Legacy Documentation Transformation →](./content-architecture.html)**  
   *Audience:* Engineering Leadership, Product Operations, Documentation Leads  
   *Summary:* Architectural breakdown detailing how I engineered an AI prompt pipeline using Claude and Copilot to deconstruct a monolithic 650-page manual across 120+ modules into modular EPPO topics, reducing refactoring time by 70%.
 
