@@ -19,6 +19,7 @@ All content is authored in GitHub-Flavored Markdown and deployed continuously vi
 
 ### 1. ClearVault Lending Suite
 Focus: Enterprise loan servicing, secondary marketing, and mortgage regulatory compliance.
+* clearvault-spec.md — Technical system specification defining data contracts, JSON schemas, event lifecycle state machines, retry policies, and CFPB/RESPA audit controls.
 * clearvault-release-notes.md — Major release notes covering automated escrow analysis, dynamic TRID/TILA disclosures, and breaking database schema changes.
 * clearvault-task-guide.md — Procedural task guide for configuring automated annual escrow runs, RESPA cushion limits, and Accounts Payable batch exports.
 
