@@ -53,6 +53,15 @@ I write according to the **Microsoft Style Guide**, emphasizing clean, user-focu
 
 ---
 
+### Suite 4: Product Content Design & UX Architecture
+*Interface microcopy, design system content tokens, and usability testing.*
+
+* **[Case Study: UX Content Architecture & Interface Design System →](./ux-content-design.html)**  
+  *Audience:* Product Designers, UX Researchers, Frontend Engineers, Product Managers  
+  *Summary:* Redesign of a high-friction loan verification workflow in Figma. Covers user journey mapping, design-system microcopy schemas, and usability testing metrics that reduced application drop-off by 34%.
+
+---
+
 ## Core Competencies
 
 | Domain | Specialties & Methodologies |
