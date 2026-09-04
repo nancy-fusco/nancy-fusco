@@ -1,35 +1,52 @@
-# Release Notes: ApexPay Gateway v4.2.0
+# Nancy Fusco
+**Senior Technical Writer & Content Architect**  
+*Enterprise Software | Financial Systems | Topic-Based Information Architecture*
 
-**Release Date:** September 2026  
-**Target Audience:** Platform Administrators & Integration Engineers  
+[GitHub Repository](https://github.com/nancy-fusco/nancy-fusco) · [LinkedIn Profile](https://linkedin.com/in/nancy-fusco) · [Email](mailto:your-email@example.com)
 
 ---
 
 ## Overview
-ApexPay Gateway v4.2.0 introduces automated transaction reconciliation for batch settlement files, expands OAuth2 token lifespan options, and resolves edge-case latency spikes during peak processing windows.
+I am a Senior Technical Writer and former Director of Client Implementations with 17+ years of experience delivering clear, scalable technical documentation for complex enterprise platforms. 
 
-## What's New
-
-### 1. Automated Batch Reconciliation (X9.37 Formats)
-* **Real-Time Settlement Matching:** Ingestion pipelines now cross-reference inbound settlement batches against cleared ledger balances automatically.
-* **Audit Trail Dashboards:** Operational teams can view mismatch flags directly in the admin portal under **Reporting > Exceptions**.
-
-### 2. Security & Token Configuration
-* **Configurable Expiration:** Added administrative controls to configure bearer token lifetimes from `15m` to `24h`.
-* **Scoped Permissions:** API keys can now be scoped strictly to read-only reporting endpoints (`reporting:read`).
+My work bridges systems-level operations and precise technical communication. I specialize in **topic-based authoring (EPPO)**, **semantic content modeling**, and using **AI-driven pipelines (Claude, ChatGPT, Copilot)** to transform legacy documentation into modular, search-optimized knowledge systems.
 
 ---
 
-## Bug Fixes & Enhancements
+## Featured Work & Documentation Samples
 
-| Component | Issue ID | Description | Impact |
-|---|---|---|---|
-| **Auth Service** | AP-1042 | Fixed race condition during simultaneous session refresh calls. | Low latency improvement |
-| **Ingestion** | AP-1088 | Resolved parsing failures on non-standard carriage returns in legacy files. | Prevents silent batch drops |
+### [1. Enterprise Feature Release Notes →](./release-notes.html)
+* **Type:** Product Release Documentation  
+* **Target Audience:** Platform Administrators, Solutions Architects, & Integration Engineers  
+* **Summary:** A production-ready release note covering major banking platform updates, API token configurations, X9.37 batch settlement reconciliation, and database migration prerequisites. Formatted for high scannability, rapid impact assessment, and operational sign-off.
 
 ---
 
-## Upgrade Instructions
-1. Navigate to the **Admin Settings > Updates** panel.
-2. Verify existing database migrations are complete before applying build `4.2.0-b88`.
-3. Clear server cache and monitor the `/health` endpoint for 60 seconds post-deployment.
+### [2. Topic-Based Procedural Task Guide →](./task-guide.html)
+* **Type:** User-Centric Task & Configuration Manual  
+* **Target Audience:** System Administrators & Operations Specialists  
+* **Summary:** Built strictly on the *Every Page is Page One* (EPPO) model. Provides an autonomous, step-by-step procedural workflow with prerequisites, UI verification callouts, and contextual ontological linking that requires zero prior manual reading to execute successfully.
+
+---
+
+### [3. Case Study: AI-Accelerated Legacy Transformation →](./content-architecture.html)
+* **Type:** Information Architecture & ContentOps Strategy  
+* **Target Audience:** Engineering Leadership & Product Operations  
+* **Summary:** An architectural breakdown detailing how I engineered an AI workflow using Claude and Microsoft Copilot to deconstruct a monolithic, multi-hundred-page legacy manual across 120+ software modules into modern, scannable, topic-driven documentation.
+
+---
+
+## Core Competencies
+
+| Domain | Specialties & Methodologies |
+|---|---|
+| **Technical Writing** | Topic-Based Authoring (EPPO), Release Management, Admin Guides, Runbooks, Cross-functional SME Interviews |
+| **Information Architecture** | Semantic Content Modeling, Ontological Linking, Single-Source Strategy, Findability & Taxonomy Design |
+| **Tooling & Formats** | Markdown, Git / GitHub Pages, MadCap Flare, Fluid Topics, Zoomin, HTML5/CSS, Jira, ServiceNow |
+| **AI & Automation** | Claude Code / Desktop, Microsoft Copilot, ChatGPT Prompt Architecture, Excel / VBA Automation |
+| **Enterprise Domain** | FinTech, Core Banking Protocols (X9.37 formats), Client Implementations, Enterprise Agile/Scrum |
+
+---
+
+## Background & Approach
+Having led enterprise implementation organizations and managed cross-functional engineering deliverables, I treat documentation as a critical-path project milestone rather than a post-release afterthought. I synchronize writing deliverables with sprint cycles, staging freezes, and deployment milestones to eliminate delivery bottlenecks and reduce customer onboarding friction.
