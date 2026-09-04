@@ -1,10 +1,10 @@
 # Enterprise Technical Documentation & Content Architecture Portfolio
 
-Live Site: https://your-username.github.io
+Live Site: https://nancy-fusco.github.io
 
-Author: Jane Doe  
+Author: Nancy Fusco  
 Role: Senior Technical Writer & Content Architect  
-Standards: Microsoft Manual of Style | Every Page is Page One (EPPO) | Docs-as-Code  
+Standards: Microsoft Style Guide | Every Page is Page One (EPPO) | Docs-as-Code  
 
 ---
 
