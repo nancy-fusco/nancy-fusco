@@ -36,6 +36,13 @@ My work bridges systems-level operations and precise technical communication. I 
 
 ---
 
+### [4. System Architecture & Admin Guide: AI Media Engine →](./app-architecture.html)
+* **Type:** System Specification & Administrator Runbook  
+* **Target Audience:** Integration Engineers, System Admins, & Product Leads  
+* **Summary:** Details the technical architecture, tabular data contracts, and administrative workflows for an AI-driven catalog selector. Showcases data schema definition, prompt engineering constraints to prevent hallucinations, and step-by-step administrative procedures.
+
+---
+
 ## Core Competencies
 
 | Domain | Specialties & Methodologies |
