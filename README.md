@@ -49,3 +49,20 @@ Focus: ContentOps scalability, legacy manual decomposition, and model orchestrat
 * Styling: Custom SCSS (assets/css/style.scss)
 * Source Control: Git (branching, commits, pull requests)
 * Authoring: Markdown, VS Code
+
+---
+
+## Local Development & Contribution
+
+To run and preview this site locally:
+
+1. Clone the repository:
+   git clone https://github.com/your-username/your-repo.git
+
+2. Navigate to the root directory:
+   cd your-repo
+
+3. Launch with Jekyll:
+   bundle exec jekyll serve
+
+4. Open your browser to http://localhost:4000
