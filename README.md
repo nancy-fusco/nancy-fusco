@@ -57,7 +57,7 @@ Focus: ContentOps scalability, legacy manual decomposition, and model orchestrat
 To run and preview this site locally:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/nancy-fusco/nancy-fusco.git
 
 2. Navigate to the root directory:
    cd your-repo
