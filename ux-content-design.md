@@ -21,7 +21,7 @@ By pairing journey mapping with design-system content tokens and running iterati
 Usability telemetry and support logs revealed that 41% of prospective borrowers abandoned their loan applications at the document upload step. 
 
 Key friction points identified during user journey analysis:
-* **Hostile Error Messages:** Vague, technical system alerts such as *ERR_PAYLOAD_INVALID_FORMAT* rather than actionable recovery guidance.
+* **Vague Error Messages:** Technical system alerts such as *ERR_PAYLOAD_INVALID_FORMAT* rather than actionable recovery guidance.
 * **Cognitive Fatigue:** Walls of dense compliance text explaining RESPA requirements before users could take action.
 * **Taxonomy Confusion:** Users frequently uploaded single-page paystubs because UI strings requested "Proof of Earnings" without defining the necessary year-to-date schedule.
 
@@ -56,18 +56,6 @@ To ensure scalable UI consistency across five agile engineering pods, I develope
 | **Field Validation (Error)** | State what happened + how to fix it immediately. | Upload a PDF or PNG under 10MB. | Invalid file type. |
 | **Empty State** | State current status + single forward action. | No documents uploaded yet. Drag your paystub here to begin. | Nothing here. |
 | **Contextual Help (Tooltip)** | Plain language explanation of regulatory necessity. | Federal regulations require us to confirm steady earnings over the past 30 days. | Required under 12 CFR § 1026.43. |
-
----
-
-## Interactive Figma Prototype & Specs
-
-Review the interactive content guidelines, wireframes, and journey map directly below:
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=YOUR_FIGMA_SHARE_LINK_HERE" allowfullscreen></iframe>
-
-*(Note: Replace YOUR_FIGMA_SHARE_LINK_HERE with your public Figma project URL, or link directly to the board).*
-
-[Open Full Screen Figma Board in New Tab →](https://figma.com)
 
 ---
 
