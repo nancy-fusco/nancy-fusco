@@ -64,14 +64,15 @@ I write according to the **Microsoft Style Guide**, emphasizing clean, user-focu
 
 ## Core Competencies
 
-| Domain | Specialties & Methodologies |
+| Functional Area | Methodologies, Standards & Tooling |
 |---|---|
 | **Style & Standards** | Microsoft Style Guide, Clean Minimalism, Topic-Based Authoring (EPPO), Plain Language Principles |
-| **Technical Writing** | Enterprise Release Notes, Admin Runbooks, Task Guides, Architecture Specs, SME Interviewing |
+| **Technical Writing** | Enterprise Release Notes, Admin Runbooks, Task Guides, Architecture Specifications, SME Interviewing |
 | **Information Architecture** | Semantic Content Modeling, Single-Sourcing, Taxonomy Design, Ontological Navigation Systems |
-| **Tooling & Formats** | Markdown, Git / GitHub Pages, Docs-as-Code, MadCap Flare, Fluid Topics, HTML5/SCSS, Jira |
-| **AI & Automation** | Claude Code / Desktop, Microsoft Copilot, Prompt Architecture, Structured Ingestion, Excel / VBA |
-| **Domain Depth** | Commercial & Residential Lending (RESPA, TRID), Core Banking (X9.37, NACHA), Enterprise Implementation |
+| **Enterprise Authoring & Delivery** | **MadCap Flare** (Single-sourcing, conditional targets, HTML5 bundling), **Zoomin** & **Fluid Topics** (Bundle ingestion, faceted search, taxonomy mapping) |
+| **Docs-as-Code & Version Control** | Markdown, Git / GitHub Pages, Jekyll, CI/CD Documentation Pipelines, HTML5/SCSS, Jira |
+| **AI & Workflow Automation** | Claude Code / Desktop, Microsoft Copilot, Prompt Architecture, Prompt Chains, Structured Ingestion, Excel / VBA |
+| **Domain Depth** | Commercial & Residential Lending (RESPA, TRID), Core Banking (X9.37, NACHA, Transaction Processing), Enterprise Implementation |
 
 ---
 
