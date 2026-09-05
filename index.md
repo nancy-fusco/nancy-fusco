@@ -70,6 +70,13 @@ I write according to the **Microsoft Style Guide**, emphasizing clean, user-focu
 
 ---
 
+### Suite 5: Systems Operations & Platform Architecture
+*Operational runbooks, batch clearing reconciliation, and disaster remediation workflows.*
+
+* **[Production Runbook: Daily Core Ingestion & Clearing Reconciliation →](./runbook-daily-core-ingestion.html)**  
+  *Audience:* SREs, Systems Operations, Platform Engineers, Implementation Leads  
+  *Summary:* Production-grade operational runbook governing daily transaction sorting, batch validation, and General Ledger (GL) parity for high-volume banking feeds. Details strict execution gates, automated health checks, and targeted failure remediation matrices for clearing-window SLAs.
+
 ## Core Competencies
 
 | Functional Area | Methodologies, Standards & Tooling |
