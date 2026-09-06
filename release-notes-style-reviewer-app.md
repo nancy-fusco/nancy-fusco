@@ -63,7 +63,7 @@ If you want to explore the reviewer without uploading your own documents:
 ---
 
 ## Dashboard Walkthrough
-![Image](assets/images/Gemini_Generated_Dashboard_of_App.jpg)
+![Image](assets/Gemini_Generated_Dashboard_of_App.png)
 
 ### Clean Page Metric & KPI Cards
 * Clean Page Metric (Left Rail): Displays the calculated percentage, visual status ring, and qualitative rating.
