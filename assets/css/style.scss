@@ -9,12 +9,8 @@ body {
   line-height: 1.6;
 }
 
-blockquote {
-  border-left: 4px solid #ccc;
-  background: #f9f9f9;
+.markdown-body blockquote {
   color: #aa0000;
-  font-style: normal;
-  padding: 0.5rem 1rem;
 }
 
 h1, h2, h3 {
