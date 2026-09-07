@@ -103,3 +103,7 @@ Before opening the catalog tool to general users, verify that the automated reco
 * [Architecture Case Study: Enterprise Single-Sourcing & Multi-Target Delivery Pipeline](./flare-zoomin-architecture.html)
 * [AI Case Study: AI-Accelerated Legacy Documentation Transformation](./content-architecture.html)
 * [System Architecture & User Guide: Release Notes Style & Quality Reviewer App](./release-notes-style-reviewer-app.html)
+
+---
+
+[Back to Home](../index.md) | [Back to Top](#top)
