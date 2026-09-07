@@ -99,7 +99,7 @@ Before opening the catalog tool to general users, verify that the automated reco
 
 ---
 
-## Related Portfolio Samples
-* [Case Study: AI-Accelerated Legacy Transformation](./content-architecture.html)
-* [Enterprise Release Notes: ApexPay Gateway](./release-notes.html)
-* [How to Configure Automated X9.37 Batch Ingestion](./task-guide.html)
+## Related Documents
+* [Architecture Case Study: Enterprise Single-Sourcing & Multi-Target Delivery Pipeline](./flare-zoomin-architecture.html)
+* [AI Case Study: AI-Accelerated Legacy Documentation Transformation](./content-architecture.html)
+* [System Architecture & User Guide: Release Notes Style & Quality Reviewer App](./release-notes-style-reviewer-app.html)
