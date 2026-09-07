@@ -61,7 +61,11 @@ I write according to the **Microsoft Style Guide**, emphasizing clean, user-focu
 
 * **[System Architecture & Admin Guide: AI Media Catalog Engine →](./app-architecture.html)**  
   *Audience:* Integration Engineers, System Administrators, Product Leads  
-  *Summary:* Technical specification and runbook for a Google AI Studio/Gemini application. Details CSV ingestion schemas, prompt constraints that eliminate hallucinations, and administrative catalog verification procedures.
+  *Summary:* Technical specification and runbook for a Google AI Studio/Gemini application that I developed using Google AI Studio. Details CSV ingestion schemas, prompt constraints that eliminate hallucinations, and administrative catalog verification procedures.
+
+* **[System Architecture & User Guide: Release Notes Style & Quality Reviewer App →](./release-notes-style-reviewer-app.html)**
+  *Audience:* Technical Documentation Teams, Product Managers, Release Engineers  
+  *Summary:* The Release Notes Style & Quality Reviewer is an automated style checker and quality assurance tool that I developed using Google AI Studio. This document explains how the application is built and how to use it.
 
 ---
 
