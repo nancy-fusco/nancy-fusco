@@ -34,7 +34,7 @@ Focus: Enterprise CCMS single-sourcing, automated build pipelines, dynamic conte
 * flare-zoomin-architecture.md — Case study detailing single-source content models in MadCap Flare, conditional XML metadata tagging, and automated HTML5 bundle ingestion into Zoomin and Fluid Topics for dynamic, role-based delivery.
 * content-architecture.md — Enterprise case study outlining AI-driven legacy manual decomposition, structured schema extraction, and prompt-chained content refactoring workflows.
 * app-architecture.md — System architecture specification and deployment runbook covering microservices orchestration, containerized services, and API gateway routing.
-* release-notes-style-reviewer-app.md — System architecture and user guide for AI application.
+* release-notes-style-reviewer-app.md — System architecture and user guide detailing the key concepts, scoring methodology, customization capabilities, and how to use the application.
 
 ---
 
