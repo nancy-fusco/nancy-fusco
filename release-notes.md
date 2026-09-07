@@ -81,4 +81,4 @@ Enhance security compliance by assigning least-privilege permissions to integrat
 ---
 
 ## Related Documents
-* [Task Guide: How to Configure Automated X.937 Ingestion](./task-guide.html)
+* [Task Guide: How to Configure Automated X.937 Batch Ingestion](./task-guide.html)
