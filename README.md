@@ -29,11 +29,12 @@ Focus: Transaction clearing, batch processing, and secure integration infrastruc
 * release-notes.md — Enterprise platform update detailing in-memory X9.37 check settlement reconciliation and scoped OAuth2 token models.
 * task-guide.md — Self-contained procedural topic walking through automated image cash letter (ICL) pipeline configuration and Type 01/99 control verification.
 
-### 3. Systems Architecture & Content Delivery
-Focus: Enterprise CCMS single-sourcing, automated build pipelines, and dynamic content delivery (CDP).
+### 3. Content Systems & AI Architecture
+Focus: Enterprise CCMS single-sourcing, automated build pipelines, dynamic content delivery (CDP), and AI application guides.
 * flare-zoomin-architecture.md — Case study detailing single-source content models in MadCap Flare, conditional XML metadata tagging, and automated HTML5 bundle ingestion into Zoomin and Fluid Topics for dynamic, role-based delivery.
 * content-architecture.md — Enterprise case study outlining AI-driven legacy manual decomposition, structured schema extraction, and prompt-chained content refactoring workflows.
 * app-architecture.md — System architecture specification and deployment runbook covering microservices orchestration, containerized services, and API gateway routing.
+* release-notes-style-reviewer-app.md — System architecture and user guide for AI application.
 
 ---
 
