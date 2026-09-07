@@ -91,3 +91,7 @@ Rather than manually rewriting 650 pages line-by-line, I engineered a structured
 * [Architecture Case Study: Enterprise Single-Sourcing & Multi-Target Delivery Pipeline](./flare-zoomin-architecture.html)
 * [System Architecture & Admin Guide: AI Media Catalog Engine](./app-architecture.html)
 * [System Architecture & User Guide: Release Notes Style & Quality Reviewer App](./release-notes-style-reviewer-app.html)
+
+---
+
+[Home](./index.html) | [Top](#top)
