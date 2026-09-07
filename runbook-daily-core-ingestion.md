@@ -86,3 +86,7 @@ GROUP BY batch_id, status;
 * [Release Notes: ClearVault Loan Portal v3.4.0](./clearvault-release-notes.html)
 * [Task Guide: How to Configure Automated Escrow Analysis](./clearvault-task-guide.html)
 * [System Specifications: ClearVault Loan Event Integration & Webhook Dispatcher](./clearvault-spec.html)
+
+---
+
+[Home](./index.html) | [Top](#top)
