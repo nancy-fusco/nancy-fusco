@@ -113,6 +113,6 @@ To ensure compliance with Consumer Financial Protection Bureau (CFPB) record-kee
 
 ---
 
-## Related Portfolio Documents
+## Related Documents
 * [Release Notes: ClearVault Loan Portal v3.4.0](./clearvault-release-notes.html)
-* [Task Guide: Configuring Automated Escrow Analysis](./clearvault-task-guide.html)
+* [Task Guide: How to Configure Automated Escrow Analysis](./clearvault-task-guide.html)
