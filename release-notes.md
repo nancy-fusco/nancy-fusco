@@ -80,7 +80,5 @@ Enhance security compliance by assigning least-privilege permissions to integrat
 
 ---
 
-## Related Information
-* [X9.37 Batch Ingestion Specification](./task-guide.html)
-* [API Scopes & Authentication Migration Guide](./index.html)
-* [Disaster Recovery & Rollback Runbook](./index.html)
+## Related Documents
+* [Task Guide: How to Configure Automated X.937 Ingestion](./task-guide.html)
