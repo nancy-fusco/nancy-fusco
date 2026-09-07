@@ -22,6 +22,7 @@ Focus: Enterprise loan servicing, secondary marketing, and mortgage regulatory c
 * clearvault-spec.md — Technical system specification defining data contracts, JSON schemas, event lifecycle state machines, retry policies, and CFPB/RESPA audit controls.
 * clearvault-release-notes.md — Major release notes covering automated escrow analysis, dynamic TRID/TILA disclosures, and breaking database schema changes.
 * clearvault-task-guide.md — Procedural task guide for configuring automated annual escrow runs, RESPA cushion limits, and Accounts Payable batch exports.
+* runbook-daily-core-ingestion.md - Operational runbook governing daily transaction sorting, batch validation, and General Ledger (GL) parity for high-volume banking feeds. Details strict execution gates, automated health checks, and targeted failure remediation matrices for clearing-window SLAs.
 
 ### 2. ApexPay Payment Gateway Suite
 Focus: Transaction clearing, batch processing, and secure integration infrastructure.
