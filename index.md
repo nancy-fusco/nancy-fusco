@@ -1,7 +1,7 @@
 **Senior Technical Writer & Content Architect**  
 *Enterprise Software | Financial Systems | Topic-Based Information Architecture*
 
-[GitHub Repository](https://github.com/nancy-fusco/nancy-fusco) · [LinkedIn Profile](https://linkedin.com/in/nancy-fusco) · [Email](mailto:your-email@example.com)
+[GitHub Repository](https://github.com/nancy-fusco/nancy-fusco) · [LinkedIn Profile](https://linkedin.com/in/nancy-fusco)
 
 ---
 
@@ -69,20 +69,6 @@ I write according to the **Microsoft Style Guide**, emphasizing clean, user-focu
 
 ---
 
-## Core Competencies
-
-| Functional Area | Methodologies, Standards & Tooling |
-|---|---|
-| **Style & Standards** | Microsoft Style Guide, Clean Minimalism, Topic-Based Authoring (EPPO), Plain Language Principles |
-| **Technical Writing** | Enterprise Release Notes, Admin Runbooks, Task Guides, Architecture Specifications, SME Interviewing |
-| **Information Architecture** | Semantic Content Modeling, Single-Sourcing, Taxonomy Design, Ontological Navigation Systems |
-| **Enterprise Authoring & Delivery** | **MadCap Flare** (Single-sourcing, conditional targets, HTML5 bundling), **Zoomin** & **Fluid Topics** (Bundle ingestion, faceted search, taxonomy mapping) |
-| **Docs-as-Code & Version Control** | Markdown, Git / GitHub Pages, Jekyll, CI/CD Documentation Pipelines, HTML5/SCSS, Jira |
-| **AI & Workflow Automation** | Claude Code / Desktop, Microsoft Copilot, Prompt Architecture, Prompt Chains, Structured Ingestion, Excel / VBA |
-| **Domain Depth** | Commercial & Residential Lending (RESPA, TRID), Core Banking (X9.37, NACHA, Transaction Processing), Enterprise Implementation |
-
----
-
 ## Background & Approach
-Having led enterprise implementations and collaborated alongside senior engineering teams, I treat documentation as a core product feature rather than a post-release afterthought. I build documentation pipelines that align with sprint cycles, eliminate deployment friction, and empower both technical operators and business users through structured, unambiguous clarity.
+Having led enterprise implementations and collaborated alongside senior engineering teams, I build documentation pipelines that align with sprint cycles, eliminate deployment friction, and empower both technical operators and business users through structured, unambiguous clarity.
 
