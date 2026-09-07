@@ -135,3 +135,7 @@ In Flare's internal code view, topics combine XHTML5 with proprietary XML schema
 * [AI Case Study: AI-Accelerated Legacy Documentation Transformation](./content-architecture.html)
 * [System Architecture & Admin Guide: AI Media Catalog Engine](./app-architecture.html)
 * [System Architecture & User Guide: Release Notes Style & Quality Reviewer App](./release-notes-style-reviewer-app.html)
+
+---
+
+[Home](./index.html) | [Top](#top)
