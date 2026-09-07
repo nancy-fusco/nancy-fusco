@@ -65,7 +65,7 @@ I write according to the **Microsoft Style Guide**, emphasizing clean, user-focu
 
 * **[System Architecture & User Guide: Release Notes Style & Quality Reviewer App →](./release-notes-style-reviewer-app.html)**  
   *Audience:* Technical Documentation Teams, Product Managers, Release Engineers  
-  *Summary:* The Release Notes Style & Quality Reviewer is an automated style checker and quality assurance tool that I developed using Google AI Studio. This document explains how the application is built and how to use it.
+  *Summary:* The Release Notes Style & Quality Reviewer is an automated style checker and quality assurance tool that I developed using Google AI Studio. This document explains the key concepts, scoring methodology, customizing guidelines with house rules, and how to use the application.
 
 ---
 
