@@ -1,3 +1,5 @@
+[← Back to Home](./index.html)
+
 # Release Notes Style & Quality Reviewer — User Guide
 
 The Release Notes Style & Quality Reviewer is an automated quality assurance and technical editing tool designed for technical documentation teams, product managers, and release engineers. It critiques release notes against the Microsoft Writing Style Guide and custom House Rules, computing a binary Clean Page Metric and generating an actionable, page-by-page remediation report.
