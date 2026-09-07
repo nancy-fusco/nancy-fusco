@@ -78,3 +78,11 @@ GROUP BY batch_id, status;
    ```
 2. Archive generated audit log artifacts to standard audit retention vault.
 3. Update daily operations checklist in ServiceNow / Confluence with execution timestamp and operator ID.
+
+---
+
+## Related Documents
+
+* [Release Notes: ClearVault Loan Portal v3.4.0](./clearvault-release-notes.html)
+* [Task Guide: How to Configure Automated Escrow Analysis](./clearvault-task-guide.html)
+* [System Specifications: ClearVault Loan Event Integration & Webhook Dispatcher](./clearvault-spec.html)
