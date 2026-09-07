@@ -29,10 +29,14 @@ I write according to the **Microsoft Style Guide**, emphasizing clean, user-focu
   *Audience:* Loan Servicing Specialists, Escrow Accounting Managers  
   *Summary:* Standalone EPPO procedural guide walking through 12-month historical disbursement evaluations, RESPA cushion rules, pre-analysis simulations, and Accounts Payable refund batch exports.
 
+* **[Production Runbook: Daily Core Ingestion & Clearing Reconciliation →](./runbook-daily-core-ingestion.html)**  
+  *Audience:* SREs, Systems Operations, Platform Engineers, Implementation Leads  
+  *Summary:* Production-grade operational runbook governing daily transaction sorting, batch validation, and General Ledger (GL) parity for high-volume banking feeds. Details strict execution gates, automated health checks, and targeted failure remediation matrices for clearing-window SLAs.
+
 ---
 
 ### Suite 2: ApexPay Payment Infrastructure
-*Core transaction clearing, high-volume batch ingestion, and secure API gateways.*
+*Core transaction processing, clearing, high-volume batch ingestion, and secure API gateways.*
 
 * **[Feature Release Notes: ApexPay Gateway v4.2.0 →](./release-notes.html)**  
   *Audience:* Platform Administrators, Solutions Architects, Integration Engineers  
@@ -60,22 +64,6 @@ I write according to the **Microsoft Style Guide**, emphasizing clean, user-focu
   *Summary:* Technical specification and runbook for a Google AI Studio/Gemini application. Details CSV ingestion schemas, prompt constraints that eliminate hallucinations, and administrative catalog verification procedures.
 
 ---
-
-### Suite 4: Product Content Design & UX Architecture
-*Interface microcopy, design system content tokens, and usability testing.*
-
-* **[Case Study: UX Content Architecture & Interface Design System →](./ux-content-design.html)**  
-  *Audience:* Product Designers, UX Researchers, Frontend Engineers, Product Managers  
-  *Summary:* Redesign of a high-friction loan verification workflow in Figma. Covers user journey mapping, design-system microcopy schemas, and usability testing metrics that reduced application drop-off by 34%.
-
----
-
-### Suite 5: Systems Operations & Platform Architecture
-*Operational runbooks, batch clearing reconciliation, and disaster remediation workflows.*
-
-* **[Production Runbook: Daily Core Ingestion & Clearing Reconciliation →](./runbook-daily-core-ingestion.html)**  
-  *Audience:* SREs, Systems Operations, Platform Engineers, Implementation Leads  
-  *Summary:* Production-grade operational runbook governing daily transaction sorting, batch validation, and General Ledger (GL) parity for high-volume banking feeds. Details strict execution gates, automated health checks, and targeted failure remediation matrices for clearing-window SLAs.
 
 ## Core Competencies
 
