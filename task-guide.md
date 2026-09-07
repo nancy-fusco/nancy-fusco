@@ -100,7 +100,5 @@ Verify your pipeline is healthy after activation:
 
 ---
 
-## Related Documentation
+## Related Documents
 * [Release Notes: ApexPay Gateway v4.2.0](./release-notes.html)
-* [API Scopes & Authentication Migration Guide](./index.html)
-* [Exception Resolution Runbook](./index.html)
