@@ -106,4 +106,4 @@ Before opening the catalog tool to general users, verify that the automated reco
 
 ---
 
-[Back to Home](../index.md) | [Back to Top](#top)
+[Home](./index.html) | [Top](#top)
