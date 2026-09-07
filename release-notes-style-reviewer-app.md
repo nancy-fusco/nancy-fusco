@@ -159,3 +159,9 @@ The application uses a resilient dual-layer architecture to ensure continuous av
 * If the external API is unreachable or experiences rate-limiting, the application automatically engages an internal deterministic rules engine.
 * Ensures reports, page matrices, and audits continue to function without interruption.
 
+---
+
+## Related Documents
+* [Architecture Case Study: Enterprise Single-Sourcing & Multi-Target Delivery Pipeline](./flare-zoomin-architecture.html)
+* [AI Case Study: AI-Accelerated Legacy Documentation Transformation](./content-architecture.html)
+* [System Architecture & Admin Guide: AI Media Catalog Engine](./app-architecture.html)
