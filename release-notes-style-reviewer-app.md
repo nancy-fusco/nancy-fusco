@@ -167,3 +167,7 @@ The application uses a resilient dual-layer architecture to ensure continuous av
 * [Architecture Case Study: Enterprise Single-Sourcing & Multi-Target Delivery Pipeline](./flare-zoomin-architecture.html)
 * [AI Case Study: AI-Accelerated Legacy Documentation Transformation](./content-architecture.html)
 * [System Architecture & Admin Guide: AI Media Catalog Engine](./app-architecture.html)
+
+---
+
+[Home](./index.html) | [Top](#top)
