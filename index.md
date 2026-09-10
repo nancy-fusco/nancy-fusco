@@ -1,7 +1,7 @@
 **Senior Technical Writer & Content Architect**  
 *Enterprise Software | Financial Systems | Topic-Based Information Architecture*
 
-[GitHub Repository](https://github.com/nancy-fusco/nancy-fusco) · [LinkedIn Profile](https://linkedin.com/in/nancy-fusco)
+[GitHub Repository](https://github.com/nancy-fusco/nancy-fusco)
 
 ---
 
