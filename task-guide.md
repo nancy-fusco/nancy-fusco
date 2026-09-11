@@ -50,7 +50,7 @@ To prevent partial ledger posting and detect corrupted check archives, enforce s
 ### Step 3: Configure Ledger Settlement Mapping
 Map inbound transactions to internal accounts before triggering the downstream clearing workflow:
 
-1. Click **Mapping & General Ledger**.
+1. Select **Mapping & General Ledger**.
 2. Under **Transit Credit Account**, select the default settlement ledger from your chart of accounts.
 3. Under **Return Routing Account**, specify the reserve account for handling NSF and return items.
 4. Set the **Duplicate Item Check** threshold to `90 Days`.
@@ -77,7 +77,7 @@ Before activating the pipeline in production, run a dry-run validation using a s
 
 ### Step 5: Activate the Pipeline
 1. Toggle the **Pipeline Status** switch at the top of the screen to **Active**.
-2. Click **Save & Apply Changes**.
+2. Select **Save & Apply Changes**.
 3. Confirm activation when prompted. The gateway will initiate automated polling on the configured cycle.
 
 ---
