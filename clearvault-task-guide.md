@@ -26,7 +26,7 @@ Before beginning this configuration, confirm you have:
 
 ### Step 1: Select Portfolio Scope & Analysis Cycle
 1. Log in to the ClearVault portal and navigate to **Servicing > Escrow Management > Analysis Profiles**.
-2. Click **New Analysis Run**.
+2. Select **New Analysis Run**.
 3. Define the loan selection criteria:
    * **Run Name:** Enter a descriptive label (for example, `2026-Q3-Midwest-Residential-Annual`).
    * **Analysis Period:** Select `Annual (12-Month Standard Projection)`.
@@ -38,7 +38,7 @@ Before beginning this configuration, confirm you have:
 ### Step 2: Establish Calculation & Reserve Cushion Rules
 Enforce Real Estate Settlement Procedures Act (RESPA) compliance limits on target reserves:
 
-1. Click the **Calculation Rules** tab.
+1. Select the **Calculation Rules** tab.
 2. Under **Maximum Allowable Cushion**, verify the setting is toggled to `2 Months (1/6th Annual Disbursements)`.
 3. Configure the **Shortage Treatment Rule**:
    * If shortage is less than 1 month of escrow payment: Select `Spread across 12-month billing schedule`.
@@ -78,7 +78,7 @@ Once all exceptions are resolved or bypassed:
 ### Step 5: Export Surplus Batches to Accounts Payable
 1. Navigate to **Escrow Management > Surplus Disbursement Queue**.
 2. Filter by your current run name (`2026-Q3-Midwest-Residential-Annual`).
-3. Click **Export AP Batch File**.
+3. Select **Export AP Batch File**.
 4. Confirm the export format matches your clearinghouse standard (for example, NACHA PPD Credit or NACHA Corporate AP).
 5. Transmit the generated batch file to your central accounting system for refund check printing and direct ACH disbursement.
 
