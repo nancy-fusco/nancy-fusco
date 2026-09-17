@@ -1,3 +1,5 @@
+[← Back to Home](./index.html)
+
 # Runbook: Daily Core Ingestion & Clearing Reconciliation
 
 **Service:** `clearing-reconciliation-worker`  
