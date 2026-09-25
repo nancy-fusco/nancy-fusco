@@ -1,6 +1,6 @@
 # Enterprise Technical Documentation & Content Architecture Portfolio
 
-Live Site: https://nancy-fusco.github.io
+Live Site: https://nancy-fusco.github.io/nancy-fusco/
 
 Author: Nancy Fusco  
 Role: Senior Technical Writer & Content Architect  
